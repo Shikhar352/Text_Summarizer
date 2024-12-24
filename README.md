@@ -1,4 +1,4 @@
-# Text Summarization Application
+# Text Summarization Application and Youtube vide summarizer
 
 This project is a **Text Summarization Application** built using **Gradio** and **Hugging Face Transformers**. It leverages a pre-trained model, `distilbart-cnn-12-6`, fine-tuned for text summarization tasks to summarize input text effectively.
 
